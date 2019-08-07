@@ -1,0 +1,166 @@
+@media screen and (max-width: 1300px){
+    body{
+        overflow-x: hidden;
+    }
+    .header .container .navbar .collapse{
+        margin: 0 198px;
+    }
+    .header .container .navbar .logo{
+        display: none;
+    }
+    .featured .container .row .col-md-4:hover .overlay_box{
+        display: none;
+    }
+    .tools_block .container .row .col-md-4:hover .overlay_title{
+        display: none;
+    }
+    .google_mup .container .message_mup{
+        width: 50%;
+    }
+    .google_mup .container .message_mup .message .inp{
+        width: 70%;
+    }
+   .google_mup .container .message_mup .mup{
+       display: none;
+   }
+    .google_mup .container .message_mup .message{
+        margin-left: 117px;
+    }
+    .google_mup .container .message_mup .message .btn_send{
+        margin-left: 30px;
+    }
+}
+@media screen and (max-width: 915px){
+    body{
+        overflow-x: hidden;
+    }
+    .header .container .navbar .collapse .navbar-nav .nav-item{
+        display: inline-block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    body h1{
+        font-size: 25px;
+    }
+    .template .container .history_ser{
+        font-size: 17px;
+    }
+    .tools_block .container .row{
+        display: flex;
+        flex-direction: column;
+        margin-left: 170px;
+    }
+    .google_mup .container .message_mup{
+        width: 114%;
+        margin: 0 auto;
+    }
+    .google_mup .container .message_mup .message .btn_send{
+        margin-left: 104px;
+    }
+}
+
+@media screen and (max-width: 730px){
+    body{
+        overflow-x: hidden;
+    }
+    .header .container .sub_title{
+        font-size: 25px;
+    }
+    .about_us .container .row .col-md-6 .subtitle1{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .about_us .container .row .col-md-6 .t_t1{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .tools_block .container .row {
+        margin-left:  14px;;
+    }
+    .openions .container .owl-carousel .item .col-md-6 img{
+        margin-left: 150px;
+
+    }
+    .openions .container .owl-carousel .item .info_boxe .fullname{
+        text-align: center;
+    }
+    .google_mup .container .message_mup .message{
+        margin-left: 0;
+        max-width: 435px;
+    }
+    .google_mup .container .message_mup .message .btn_send{
+        margin-left: 132px;
+    }
+}
+
+
+
+@media screen and (max-width: 480px){
+    body{
+        overflow-x: hidden;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .openions .container .owl-carousel .item .col-md-6 img{
+        margin-left:  104px;
+    }
+    .openions .container .owl-carousel .item .info_boxe .history_page{
+        text-align: center;
+    }
+    .logo_brands .container .brands a{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .google_mup .container .message_mup .message{
+        max-width: 348px;
+        margin-left: 40px;
+    }
+    .google_mup .container .message_mup .message .btn_send{
+        margin-left: 86px;
+    }
+}
+
+@media screen and (max-width: 322px){
+    body{
+        overflow-x: hidden;
+    }
+    .header .container .navbar .collapse{
+        margin: 0 98px;
+    }
+    .header .container .sub_title{
+        font-size: 20px;
+    }
+    .tools_block .container .row .col-md-4 img{
+        margin-left: -30px;
+    }
+    .openions .container .owl-carousel .item .col-md-6 img{
+        margin-left: 69px;
+    }
+    .google_mup .container .message_mup .message{
+        max-width: 215px;
+    }
+    .google_mup .container .message_mup .message .btn_send{
+        margin-left: 22px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
